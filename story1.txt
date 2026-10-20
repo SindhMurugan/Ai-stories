@@ -1,0 +1,85 @@
+PART 1: THANGATHARASU (GREED AND BETRAYAL)
+Google Flow (Veo) Prompts - 12 clips x 8 seconds (about 96 seconds, trim to 90)
+Aspect ratio: 9:16
+
+==================================================
+CHARACTER AND STYLE LOCK
+(Paste this at the start of every clip prompt)
+==================================================
+
+Style: cinematic realistic South Indian village family drama, warm golden-hour light, shallow depth of field, 9:16 vertical, consistent character design.
+THALUKU MULUKU THAKKALI: husband, late 30s, neat shirt, gold watch, slicked hair, greedy eyes.
+THENGA MALATHI: first wife, early 30s, plain cotton saree, tied hair, calm and strong face, one silver bangle.
+MANGA MANJULA: second wife, 30s, glamorous, red designer dress, heavy gold jewellery, expensive red car.
+KAMATCHI: mother-in-law, 60s, stern face, cotton saree, sharp eyes.
+KOLA KOLA VENDAIKKAI: elder son, 10, school uniform, serious.
+SELLAM: younger son, 6, school shorts, holding an old toy.
+Setting: old mud-walled house with a tiled roof, and a jewellery shop with glass cabinets.
+
+==================================================
+CLIP 1.1 (0-8 sec)
+==================================================
+Dark screen brightening to an old mud house at dusk. Deep narrator voice in Tamil: "Panathaasai ulla oru manushan, thannoda kudumbathayae thaarasula vachchu edai pottaan." Slow push-in on the house.
+
+==================================================
+CLIP 1.2 (8-16 sec)
+==================================================
+Morning, inside a jewellery shop. THALUKU stares at a gold chain behind glass, fingers hovering over the cabinet, eyes hungry. Medium shot, golden light from the window.
+
+==================================================
+CLIP 1.3 (16-24 sec)
+==================================================
+MALATHI walks up beside Thaluku holding SELLAM's hand. She says softly in Tamil: "Pasanga schoolukku nalla school venum-nu thaane uzhaikkureenga?" Two-shot, shallow focus.
+
+==================================================
+CLIP 1.4 (24-32 sec)
+==================================================
+THALUKU turns irritated and snaps in Tamil: "Un appa veetu ezhmaiya enakku yen sollura? Ippadi oru veettula irundhaa en vaazhkkai veenaa poidum!" He storms out of the shop. Malathi stands still, hurt.
+
+==================================================
+CLIP 1.5 (32-40 sec)
+==================================================
+Evening, the old house kitchen. Malathi cooks rasam over a clay stove. KAMATCHI sits on a stool and says sharply in Tamil: "Pazhaya veetu ponnu-na ippadithaan irukkum. En maganukku nalla vaazhkkai kidaikkala." Malathi keeps stirring quietly. Warm lamp light.
+
+==================================================
+CLIP 1.6 (40-48 sec)
+==================================================
+Thaluku sits alone on the front steps, looking at his phone. A message glows on the screen: "Naalaikku kaalaila red car varum. Vaarum-nu sollunga." He smiles secretly and hides the phone in his pocket. Close-up on his face.
+
+==================================================
+CLIP 1.7 (48-56 sec)
+==================================================
+A glossy red car pulls up outside the old house. MANJULA steps out in a red designer dress, gold necklace glinting. Thaluku walks out smiling and greets her with open arms. Slow dolly shot.
+
+==================================================
+CLIP 1.8 (56-64 sec)
+==================================================
+Manjula leans on the car bonnet and says in Tamil: "Ee pazhaya veetta vittutu vaanga Thaaluku. En sothum ungalukku thaan." Thaluku signs a paper on the bonnet. Close-up on the paper: the word "VIVAKARATHU" (divorce) is visible.
+
+==================================================
+CLIP 1.9 (64-72 sec)
+==================================================
+Inside the house. Malathi packs a small cloth bundle. Kola Kola Vendaikkai and Sellam stand beside her, holding her hands. Dim room, tears in the boys' eyes.
+
+==================================================
+CLIP 1.10 (72-80 sec)
+==================================================
+SELLAM asks in Tamil: "Amma, Appa yen namma-va vittuttu poraaru?" Malathi wipes her tears and says quietly: "Appaakku ippo panam thaan perusu da. Naama dhairiyama irukkanum." Medium close-up on her face.
+
+==================================================
+CLIP 1.11 (80-88 sec)
+==================================================
+From the doorway, the red car drives away down the dusty road. Malathi watches from the house. Kola Kola Vendaikkai stands next to her and says in Tamil: "Amma, naan periyavanaana appavai thirumba kondu varuven." Wide shot, sunset.
+
+==================================================
+CLIP 1.12 (88-96 sec, CLIFFHANGER)
+==================================================
+Malathi turns back into the dim room. The camera slowly pushes toward an old clay pot in the corner. A tight close-up on the pot holds for two seconds. Narrator's voice: "Andha paanaiyin keezhe irundhadhu oru rahasiyam." Fade to black.
+
+==================================================
+EDITING NOTES
+==================================================
+- Trim the 12 clips (96 seconds) down to 90 seconds in CapCut or DaVinci Resolve.
+- Use the last frame of each clip as the starting image of the next clip for continuity.
+- Check Tamil pronunciation in each clip and regenerate or add subtitles where needed.
+- Add "Part 1" as a title in your editing app, not in Flow.

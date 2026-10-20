@@ -1,0 +1,348 @@
+==================================================================
+GOOGLE FLOW - FRUIT FAMILY STORY
+"மாதுளை அம்மாவின் வைர இயந்திரம்" (Pomegranate Amma's Diamond Machine)
+Complete prompt pack: characters, reference images, scenes, dialogue
+==================================================================
+
+
+------------------------------------------------------------------
+PART 1: HOW TO USE THIS FILE (READ FIRST)
+------------------------------------------------------------------
+
+1. Make the 5 reference images first (PART 2). Do this before any scene.
+2. Save each reference image to one folder on your computer, with clear names:
+     01_PomegranateAmma.png
+     02_BlueberryChild1.png
+     03_BlueberryChild2.png
+     04_BananaHusband.png
+     05_GuavaSecondWife.png
+3. For each scene in PART 3:
+   a. Copy the whole block from the line that starts with "PROMPT START"
+      to the line that says "PROMPT END". Copy it exactly, including the
+      Character Bible. Do not shorten or retype it.
+   b. Open Google Flow and start a new generation.
+   c. Paste the prompt into the text box.
+   d. Attach the reference images listed under "Attach these reference
+      images" for that scene. Attach them in the same order every time.
+   e. Generate. Save the best take as SCENE_01.mp4, SCENE_02.mp4, and so on.
+4. When all 8 clips are done, join them in order (Scene 1 to Scene 8)
+   in the Flow editor or any video editor.
+
+Tip: Keep one note file open with the take numbers you chose, so you
+always know which one is final.
+
+
+------------------------------------------------------------------
+PART 2: REFERENCE IMAGE PROMPTS (make these first, in this order)
+------------------------------------------------------------------
+
+Generate each image, pick the best one, and save it under the file
+name shown. Each character must look the same in all 5 images you
+keep. Use these as the ONLY reference for that character from now on.
+
+REF 1 - PomegranateAmma (save as 01_PomegranateAmma.png)
+PROMPT START
+Full body character sheet, front view and side view, plain white background, 3D Pixar-style animated character, no human features, no human face. An anthropomorphic pomegranate mother: round deep-red pomegranate body with a golden crown of pomegranate petals on top and one small green leaf, big expressive brown eyes, gentle motherly expression. She wears a cream cotton saree with a maroon border. Warm, soft lighting.
+PROMPT END
+
+REF 2 - BlueberryChild1 (save as 02_BlueberryChild1.png)
+PROMPT START
+Full body character sheet, front view and side view, plain white background, 3D Pixar-style animated character, no human features, no human face. An anthropomorphic elder child: small round glossy dark-blue blueberry with a tiny star-shaped crown on top, big round eyes, cheerful expression. Wears a white shirt and brown shorts, barefoot. Warm, soft lighting.
+PROMPT END
+
+REF 3 - BlueberryChild2 (save as 03_BlueberryChild2.png)
+PROMPT START
+Full body character sheet, front view and side view, plain white background, 3D Pixar-style animated character, no human features, no human face. An anthropomorphic younger child: smaller round glossy dark-blue blueberry with a tiny star-shaped crown on top, big round eyes, shy expression. Wears a light blue checked shirt and khaki shorts, barefoot. Warm, soft lighting.
+PROMPT END
+
+REF 4 - BananaHusband (save as 04_BananaHusband.png)
+PROMPT START
+Full body character sheet, front view and side view, plain white background, 3D Pixar-style animated character, no human features, no human face. An anthropomorphic banana man: tall slim yellow banana with a small brown stem tip, slicked-back curved top, sharp eyes, confident expression. Wears a black button shirt, black trousers, black leather shoes, and a silver wristwatch. Warm, soft lighting.
+PROMPT END
+
+REF 5 - GuavaSecondWife (save as 05_GuavaSecondWife.png)
+PROMPT START
+Full body character sheet, front view and side view, plain white background, 3D Pixar-style animated character, no human features, no human face. An anthropomorphic guava woman: round pale green-pink guava with soft pink skin and a small leaf on top, glamorous and proud expression. Wears a long red satin dress, black quilted handbag with a gold chain, and red high heels. Dark wavy hair made of guava-leaf strands. Warm, soft lighting.
+PROMPT END
+
+REF 6 - Setting (optional, save as 06_Village_Setting.png)
+PROMPT START
+Small rural Tamil village scene, old mud house with a clay-tiled roof, dirt road, palm trees, banana and tamarind trees, a wooden doorway, a black SUV parked on the road. Bright daytime, 3D Pixar-style animated, no people, no human figures.
+PROMPT END
+
+
+------------------------------------------------------------------
+PART 3: CHARACTER BIBLE (already included in every scene prompt)
+------------------------------------------------------------------
+
+You do NOT need to paste this separately. It is already inside every
+scene prompt in PART 4. It is listed here so you can check it.
+
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural
+Indian village, consistent character design. No human characters, no
+human faces. All characters are anthropomorphic fruits.
+
+PomegranateAmma: round deep-red pomegranate body, golden crown of
+pomegranate petals on top, one small green leaf, big expressive brown
+eyes, cream cotton saree with a maroon border, gentle motherly
+expression. Speaks in a soft, warm voice.
+
+BlueberryChild1 (elder child): small round glossy dark-blue blueberry,
+tiny star-shaped crown on top, big round eyes, white shirt, brown
+shorts, barefoot. Speaks in a clear, young voice.
+
+BlueberryChild2 (younger child): smaller round glossy dark-blue
+blueberry, tiny star-shaped crown on top, big round eyes, light blue
+checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+
+BananaHusband: tall slim yellow banana, small brown stem tip, slicked-
+back curved top, sharp eyes, black button shirt, black trousers, black
+leather shoes, silver wristwatch. Speaks in a deep, firm voice.
+
+GuavaSecondWife: round pale green-pink guava, soft pink skin, small
+leaf on top, glamorous, long red satin dress, black quilted handbag
+with gold chain, red high heels, dark wavy hair of guava-leaf strands.
+Speaks in a calm, cool voice.
+
+Setting: small Tamil village, old mud house, clay-tiled roof, dirt road,
+palm trees, black SUV.
+
+
+------------------------------------------------------------------
+PART 4: SCENE PROMPTS (paste one at a time, in order)
+------------------------------------------------------------------
+
+Each scene below has its own Character Bible already inside it.
+Copy from PROMPT START to PROMPT END.
+
+------------------------------------------------------------------
+SCENE 1 - Happy village morning (0:00 to 0:08)
+Attach these reference images: 01_PomegranateAmma, 02_BlueberryChild1,
+03_BlueberryChild2, 06_Village_Setting (optional)
+------------------------------------------------------------------
+PROMPT START
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural Indian village, consistent character design. No human characters, no human faces. All characters are anthropomorphic fruits.
+
+CHARACTERS (keep identical in every scene):
+- PomegranateAmma: round deep-red pomegranate body, golden crown of pomegranate petals, one small green leaf, big expressive brown eyes, cream cotton saree with maroon border, gentle motherly expression. Speaks in a soft, warm voice.
+- BlueberryChild1: small round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, white shirt, brown shorts, barefoot. Speaks in a clear, young voice.
+- BlueberryChild2: smaller round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, light blue checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+
+SETTING: Small Tamil village, old mud house with clay-tiled roof, dirt road, palm trees.
+
+SCENE: Morning in a Tamil village. PomegranateAmma washes a brass vessel at her doorway. BlueberryChild1 pulls a wooden toy cart on the dirt road while BlueberryChild2 laughs and runs beside it. Warm sunlight, birds chirping, slow camera pan from left to right.
+
+DIALOGUE (lip-sync, one speaker at a time):
+PomegranateAmma says cheerfully: "வாங்க குழந்தைகளா, சாப்பிட நேரமாச்சு!"
+BlueberryChild1 says happily: "இன்னும் கொஞ்ச நேரம் விளையாடலாம்ம்மா!"
+
+No human characters. Cheerful mood.
+PROMPT END
+
+------------------------------------------------------------------
+SCENE 2 - The black car arrives (0:08 to 0:16)
+Attach these reference images: 01_PomegranateAmma, 02_BlueberryChild1,
+03_BlueberryChild2, 04_BananaHusband, 05_GuavaSecondWife
+------------------------------------------------------------------
+PROMPT START
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural Indian village, consistent character design. No human characters, no human faces. All characters are anthropomorphic fruits.
+
+CHARACTERS (keep identical in every scene):
+- PomegranateAmma: round deep-red pomegranate body, golden crown of pomegranate petals, one small green leaf, big expressive brown eyes, cream cotton saree with maroon border, gentle motherly expression. Speaks in a soft, warm voice.
+- BlueberryChild1: small round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, white shirt, brown shorts, barefoot. Speaks in a clear, young voice.
+- BlueberryChild2: smaller round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, light blue checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+- BananaHusband: tall slim yellow banana, small brown stem tip, slicked-back curved top, sharp eyes, black button shirt, black trousers, black leather shoes, silver wristwatch. Speaks in a deep, firm voice.
+- GuavaSecondWife: round pale green-pink guava, soft pink skin, small leaf on top, glamorous, long red satin dress, black quilted handbag with gold chain, red high heels, dark wavy hair of guava-leaf strands. Speaks in a calm, cool voice.
+
+SETTING: Small Tamil village, old mud house, clay-tiled roof, dirt road, palm trees, black SUV.
+
+SCENE: A black SUV drives down the village road, dust rising behind it, and stops near the mud house. BananaHusband steps out in black clothes. GuavaSecondWife steps out in a red satin dress holding her handbag. PomegranateAmma and the blueberry children look up in surprise. Medium shot, tense mood.
+
+DIALOGUE (lip-sync, one speaker at a time):
+BananaHusband says coldly: "நான் இனிமே இங்க இருக்க முடியாது."
+PomegranateAmma says nervously: "என்ன சொல்றீங்க? ஏதாவது பிரச்சனையா?"
+
+PROMPT END
+
+------------------------------------------------------------------
+SCENE 3 - The divorce paper (0:16 to 0:24)
+Attach these reference images: 01_PomegranateAmma, 02_BlueberryChild1,
+03_BlueberryChild2, 04_BananaHusband, 05_GuavaSecondWife
+------------------------------------------------------------------
+PROMPT START
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural Indian village, consistent character design. No human characters, no human faces. All characters are anthropomorphic fruits.
+
+CHARACTERS (keep identical in every scene):
+- PomegranateAmma: round deep-red pomegranate body, golden crown of pomegranate petals, one small green leaf, big expressive brown eyes, cream cotton saree with maroon border, gentle motherly expression. Speaks in a soft, warm voice.
+- BlueberryChild1: small round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, white shirt, brown shorts, barefoot. Speaks in a clear, young voice.
+- BlueberryChild2: smaller round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, light blue checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+- BananaHusband: tall slim yellow banana, small brown stem tip, slicked-back curved top, sharp eyes, black button shirt, black trousers, black leather shoes, silver wristwatch. Speaks in a deep, firm voice.
+- GuavaSecondWife: round pale green-pink guava, soft pink skin, small leaf on top, glamorous, long red satin dress, black quilted handbag with gold chain, red high heels, dark wavy hair of guava-leaf strands. Speaks in a calm, cool voice.
+
+SETTING: Small Tamil village, old mud house, clay-tiled roof, dirt road, palm trees, black SUV.
+
+SCENE: BananaHusband holds up a paper labeled "DIVORCE" in front of PomegranateAmma. She looks shocked, her eyes glistening. BlueberryChild1 and BlueberryChild2 hide behind their mother's saree. GuavaSecondWife looks away with a cold expression. Close-up on the paper, then zoom out to the family. Emotional, dramatic lighting.
+
+DIALOGUE (lip-sync, one speaker at a time):
+BananaHusband says firmly: "இதுல கையெழுத்து போடுங்க. எல்லாம் முடிஞ்சது."
+BlueberryChild2 says tearfully: "அம்மா, போகாதீங்க..."
+
+PROMPT END
+
+------------------------------------------------------------------
+SCENE 4 - Mother signs with tears (0:24 to 0:32)
+Attach these reference images: 01_PomegranateAmma, 02_BlueberryChild1,
+03_BlueberryChild2
+------------------------------------------------------------------
+PROMPT START
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural Indian village, consistent character design. No human characters, no human faces. All characters are anthropomorphic fruits.
+
+CHARACTERS (keep identical in every scene):
+- PomegranateAmma: round deep-red pomegranate body, golden crown of pomegranate petals, one small green leaf, big expressive brown eyes, cream cotton saree with maroon border, gentle motherly expression. Speaks in a soft, warm voice.
+- BlueberryChild1: small round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, white shirt, brown shorts, barefoot. Speaks in a clear, young voice.
+- BlueberryChild2: smaller round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, light blue checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+
+SETTING: Small Tamil village, old mud house, clay-tiled roof, dirt road, palm trees.
+
+SCENE: PomegranateAmma sits at a wooden table outside the mud house, signing the paper with a shaky hand while tears roll down her cheeks. The two blueberry children stand beside her, sad. Close-up on the pen and paper, then a medium shot of the family. Soft, sad lighting.
+
+DIALOGUE (lip-sync, one speaker at a time):
+PomegranateAmma says softly, with a trembling voice: "நான் கையெழுத்து போடுறேன்... ஆனா என் பிள்ளைகளுக்காக வாழ்வேன்."
+
+PROMPT END
+
+------------------------------------------------------------------
+SCENE 5 - Mother comforts children (0:32 to 0:40)
+Attach these reference images: 01_PomegranateAmma, 02_BlueberryChild1,
+03_BlueberryChild2
+------------------------------------------------------------------
+PROMPT START
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural Indian village, consistent character design. No human characters, no human faces. All characters are anthropomorphic fruits.
+
+CHARACTERS (keep identical in every scene):
+- PomegranateAmma: round deep-red pomegranate body, golden crown of pomegranate petals, one small green leaf, big expressive brown eyes, cream cotton saree with maroon border, gentle motherly expression. Speaks in a soft, warm voice.
+- BlueberryChild1: small round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, white shirt, brown shorts, barefoot. Speaks in a clear, young voice.
+- BlueberryChild2: smaller round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, light blue checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+
+SETTING: Small Tamil village, old mud house, clay-tiled roof, dirt road, palm trees.
+
+SCENE: Inside the mud house at night, lit by a single oil lamp. PomegranateAmma hugs both blueberry children tightly. They lean against her as they fall asleep. Warm orange glow, slow camera push-in. Gentle, peaceful mood.
+
+DIALOGUE (lip-sync, one speaker at a time):
+PomegranateAmma says gently: "நமக்கு யாரோட உதவியும் தேவையில்ல. நம்ம உழைப்பு போதும்."
+
+PROMPT END
+
+------------------------------------------------------------------
+SCENE 6 - The diamond machine discovery (0:40 to 0:48)
+Attach these reference images: 01_PomegranateAmma, 02_BlueberryChild1,
+03_BlueberryChild2
+------------------------------------------------------------------
+PROMPT START
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural Indian village, consistent character design. No human characters, no human faces. All characters are anthropomorphic fruits.
+
+CHARACTERS (keep identical in every scene):
+- PomegranateAmma: round deep-red pomegranate body, golden crown of pomegranate petals, one small green leaf, big expressive brown eyes, cream cotton saree with maroon border, gentle motherly expression. Speaks in a soft, warm voice.
+- BlueberryChild1: small round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, white shirt, brown shorts, barefoot. Speaks in a clear, young voice.
+- BlueberryChild2: smaller round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, light blue checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+
+SETTING: Small Tamil village, old mud house, clay-tiled roof, dirt road, palm trees.
+
+SCENE: Next morning. PomegranateAmma opens an old wooden trunk in the corner of the house and takes out a metal machine labeled "DIAMOND PRODUCER". She puts coal and water into it, and the machine lights up with blue sparks. The two blueberry children watch with wide eyes. Magical glow, slow zoom on the machine.
+
+DIALOGUE (lip-sync, one speaker at a time):
+BlueberryChild1 says in amazement: "அம்மா! இது என்ன மேஜிக் மெஷின்?"
+PomegranateAmma says proudly: "இது உங்க அப்பா விட்டுப்போன பொக்கிஷம்!"
+
+PROMPT END
+
+------------------------------------------------------------------
+SCENE 7 - Success and hard work (0:48 to 0:56)
+Attach these reference images: 01_PomegranateAmma, 02_BlueberryChild1,
+03_BlueberryChild2
+------------------------------------------------------------------
+PROMPT START
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural Indian village, consistent character design. No human characters, no human faces. All characters are anthropomorphic fruits.
+
+CHARACTERS (keep identical in every scene):
+- PomegranateAmma: round deep-red pomegranate body, golden crown of pomegranate petals, one small green leaf, big expressive brown eyes, cream cotton saree with maroon border, gentle motherly expression. Speaks in a soft, warm voice.
+- BlueberryChild1: small round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, white shirt, brown shorts, barefoot. Speaks in a clear, young voice.
+- BlueberryChild2: smaller round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, light blue checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+
+SETTING: Small Tamil village, old mud house, clay-tiled roof, dirt road, palm trees.
+
+SCENE: Quick montage. PomegranateAmma sells sparkling diamonds at a small village shop with a wooden sign. The mud house is rebuilt into a tiled-roof house. BlueberryChild1 studies at a desk with a book. BlueberryChild2 teaches a group of small village fruits under a tree. Bright lighting, quick cuts.
+
+DIALOGUE (lip-sync, one speaker at a time):
+BlueberryChild2 says proudly: "எங்க அம்மா நேர்மையா உழைச்சு எல்லாத்தையும் சாதிச்சாங்க!"
+
+PROMPT END
+
+------------------------------------------------------------------
+SCENE 8 - Regret and forgiveness (0:56 to 1:04)
+Attach these reference images: 01_PomegranateAmma, 02_BlueberryChild1,
+03_BlueberryChild2, 04_BananaHusband
+------------------------------------------------------------------
+PROMPT START
+STYLE: 3D animated Pixar-style cinematic, warm golden lighting, rural Indian village, consistent character design. No human characters, no human faces. All characters are anthropomorphic fruits.
+
+CHARACTERS (keep identical in every scene):
+- PomegranateAmma: round deep-red pomegranate body, golden crown of pomegranate petals, one small green leaf, big expressive brown eyes, cream cotton saree with maroon border, gentle motherly expression. Speaks in a soft, warm voice.
+- BlueberryChild1: small round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, white shirt, brown shorts, barefoot. Speaks in a clear, young voice.
+- BlueberryChild2: smaller round glossy dark-blue blueberry, tiny star-shaped crown, big round eyes, light blue checked shirt, khaki shorts, barefoot. Speaks in a small, soft voice.
+- BananaHusband: tall slim yellow banana, small brown stem tip, slicked-back curved top, sharp eyes, black button shirt, black trousers, black leather shoes, silver wristwatch. Speaks in a deep, firm voice.
+
+SETTING: Small Tamil village, old mud house, clay-tiled roof, dirt road, palm trees, black SUV.
+
+SCENE: BananaHusband arrives at the village shop in his black car, looking humbled. He stands before PomegranateAmma, who stands calmly with her children beside her. He lowers his head. She gives a gentle, confident smile. Warm sunset light, wide shot.
+
+DIALOGUE (lip-sync, one speaker at a time):
+BananaHusband says with regret: "நான் பண்ணது தப்பு. என்ன மன்னிச்சிடுங்க."
+PomegranateAmma says calmly: "உங்களை மன்னிச்சுட்டேன். ஆனா என் பிள்ளைங்களுக்கு இப்போ நம்பிக்கை இருக்கு."
+
+PROMPT END
+
+
+------------------------------------------------------------------
+PART 5: LIP SYNC AND CONSISTENCY CHECKLIST
+------------------------------------------------------------------
+
+LIP SYNC
+- Each dialogue line is short (under about 12 words) so it fits in 8 seconds.
+- Each line names one speaker. Keep the speaker names exactly as written.
+- Generate each scene 2 or 3 times. Choose the take where the mouth
+  movement matches the words best.
+- If Tamil lip-sync looks wrong, shorten that line first. Shorter lines
+  usually work better. You can also switch that one line to English
+  and keep the same speaker description.
+- Never add extra dialogue to a scene. More speech means worse sync.
+
+CHARACTER CONSISTENCY
+- Attach the SAME reference image for each character in every scene
+  where they appear. Use the saved files from PART 2 only.
+- Keep the attached images in the same order in every scene.
+- Do not edit or retype the CHARACTERS block. Copy it exactly.
+- If a character drifts (wrong color, missing crown, wrong clothes),
+  regenerate that scene with the reference image attached again.
+- Flow has no exact seed setting, so consistency comes from reference
+  images plus identical text. Check every take against PART 2 before
+  you keep it.
+- Keep NO human features in any image or clip. If a human appears,
+  regenerate with "no human characters, no human faces" at the start.
+
+FINAL CHECK BEFORE JOINING CLIPS
+[ ] All 5 reference images saved and named correctly
+[ ] Scene 1 to Scene 8 each generated and saved in order
+[ ] Each scene has its listed reference images attached
+[ ] Pomegranate Amma: pomegranate color, gold crown, saree (same in every clip)
+[ ] Blueberry children: blueberry color, star crown, clothes (same in every clip)
+[ ] Banana husband: yellow banana, black clothes (same in every clip)
+[ ] Guava wife: pink-green guava, red dress (same in every clip)
+[ ] No human faces or human characters anywhere
+[ ] Lip movement matches dialogue in each clip
+[ ] Clips joined in order, Scene 1 to Scene 8
+
+
+==================================================================
+END OF FILE
+==================================================================
